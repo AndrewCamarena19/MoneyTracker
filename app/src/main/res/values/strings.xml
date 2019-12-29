@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MoneyTracking</string>
+    <string name="title_home">Home</string>
+    <string name="title_graphs">Graphs</string>
+    <string name="title_config">Config</string>
+    <string name="title_dashboard">Dashboard</string>
+</resources>
